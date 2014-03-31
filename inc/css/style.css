@@ -1,0 +1,13 @@
+#stripe-payment-form {
+	max-width: 800px;
+}
+
+/*
+#stripe-payment-form label, #stripe-payment-form input {
+	width: 50%;
+}
+*/
+.form-row {
+	width: 100%;
+	margin: 10px 0
+}
